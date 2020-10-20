@@ -114,7 +114,7 @@ while tracker !=1:
 
   print()
   print(output.lower())
-  print()
+  print("Look at your final score!")
   print("Your current score: " + str(round((score/total_num_of_qn*100),1)) + "%"  )
   print()
   print()
